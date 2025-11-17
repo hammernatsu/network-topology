@@ -73,5 +73,5 @@ US-8-PoE (書房) - 主交換機
 <div align="center">
 
 **📅 最後更新 / Last Updated**: 2025-11-17  
-<!-- **👤 維護者 / Maintainer**: [@hammernatsu](https://github.com/hammernatsu) -->
+<!-- 👤 維護者 / Maintainer**: [@hammernatsu](https://github.com/hammernatsu) -->
 </div>
