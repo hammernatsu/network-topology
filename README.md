@@ -4,7 +4,7 @@
 
 ## 📊 網路拓撲圖
 
-![Network Topology](./network-topology.png)
+![Network Topology](./network-topology.jpg)
 
 ## 🖥️ 設備清單
 
